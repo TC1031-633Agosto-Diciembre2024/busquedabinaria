@@ -1,3 +1,12 @@
 # ninja log v6
 0	194	1724168080574716464	CMakeFiles/busquedabinaria.dir/main.cpp.o	76a53c777883fb73
 196	221	1724168080770288635	busquedabinaria	27ed5c5c8bb67ac1
+5	169	1724170634180262665	CMakeFiles/busquedabinaria.dir/Persona.cpp.o	707265183591811c
+4	207	1724170634179918206	CMakeFiles/busquedabinaria.dir/main.cpp.o	76a53c777883fb73
+207	237	1724170634382730951	busquedabinaria	24a1dbebf001e95d
+4	195	1724170672481471614	CMakeFiles/busquedabinaria.dir/main.cpp.o	76a53c777883fb73
+196	221	1724170672672997179	busquedabinaria	24a1dbebf001e95d
+5	201	1724170710487121791	CMakeFiles/busquedabinaria.dir/main.cpp.o	76a53c777883fb73
+201	226	1724170710683533611	busquedabinaria	24a1dbebf001e95d
+4	208	1724170754374072824	CMakeFiles/busquedabinaria.dir/main.cpp.o	76a53c777883fb73
+208	234	1724170754577588028	busquedabinaria	24a1dbebf001e95d
